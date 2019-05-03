@@ -1,0 +1,15 @@
+{
+  "name": "get-c4p",
+  "version": "1.0.0",
+  "description": "Get all fields name form nordicjs c4p form",
+  "main": "get-c4p-form.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vanessa Me Tonini",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.3.0",
+    "puppeteer": "^1.12.2"
+  }
+}
