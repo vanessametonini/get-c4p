@@ -1,2 +1,2 @@
 # get-c4p
-testing web wrap with nodejs :p
+testing web scrap with nodejs :p
